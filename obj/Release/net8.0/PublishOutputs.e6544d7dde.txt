@@ -1,0 +1,7 @@
+D:\Study\Swinburne\Y3\swin-sem2-2024\swe40006\repos\WebApplicationPT3C\obj\Release\net8.0\PubTmp\Out\WebApplicationPT3C.exe
+D:\Study\Swinburne\Y3\swin-sem2-2024\swe40006\repos\WebApplicationPT3C\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Study\Swinburne\Y3\swin-sem2-2024\swe40006\repos\WebApplicationPT3C\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Study\Swinburne\Y3\swin-sem2-2024\swe40006\repos\WebApplicationPT3C\obj\Release\net8.0\PubTmp\Out\WebApplicationPT3C.dll
+D:\Study\Swinburne\Y3\swin-sem2-2024\swe40006\repos\WebApplicationPT3C\obj\Release\net8.0\PubTmp\Out\WebApplicationPT3C.deps.json
+D:\Study\Swinburne\Y3\swin-sem2-2024\swe40006\repos\WebApplicationPT3C\obj\Release\net8.0\PubTmp\Out\WebApplicationPT3C.runtimeconfig.json
+D:\Study\Swinburne\Y3\swin-sem2-2024\swe40006\repos\WebApplicationPT3C\obj\Release\net8.0\PubTmp\Out\WebApplicationPT3C.pdb

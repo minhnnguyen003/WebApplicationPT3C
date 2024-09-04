@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApplicationPT3C.props" />
+</Project>
